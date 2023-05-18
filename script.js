@@ -1,0 +1,1 @@
+alert("This is basic alert from javascript");
